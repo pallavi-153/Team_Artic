@@ -1,4 +1,4 @@
-# 🚀 LaunchMate — Your AI Co-Founder
+# LaunchMate — Your AI Co-Founder
 
 **LaunchMate** is an AI-powered platform that helps founders, students, and institutions **validate, analyze, and fund startup ideas** using real market data and intelligent insights.
 
